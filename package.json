@@ -2,9 +2,9 @@
   "name": "keep-alive-render-2",
   "version": "1.0.0",
   "description": "",
-  "main": "./JS/server",
+  "main": "server.js",
   "scripts": {
-    "start": "node ./JS/server"
+    "start": "node server.js"
   },
   "author": "Arseniy",
   "license": "ISC",
