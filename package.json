@@ -2,7 +2,7 @@
   "name": "keep-alive-render-2",
   "version": "1.0.0",
   "description": "",
-  "main": "node ./JS/server",
+  "main": "./JS/server",
   "scripts": {
     "start": "node ./JS/server"
   },
